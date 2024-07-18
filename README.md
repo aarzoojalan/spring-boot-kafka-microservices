@@ -1,4 +1,7 @@
-# Spring Boot Kafka Microservices
+# Spring Boot Kafka Microservices [![Build Status](https://github.com/prafullsranjan/simple-spring-boot-security-jwt/actions/workflows/maven.yml/badge.svg)](https://github.com/prafullsranjan/simple-spring-boot-security-jwt/actions/workflows/maven.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
+
 A simple Spring-Boot microservice application to demo Apache Kafka producer-consumer concept.
 
 In this project we've 4 submodules in which 3 are basically microservices and `base-libs` is a standalone project for DTO.
